@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @oliveirasluccas
+- 👀 I’m interested in data science and backend
+- 🌱 I’m currently learning SQL
