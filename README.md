@@ -1,4 +1,4 @@
-<h1 align="left">👋 Olá! Sou Luccas</h1>
+<h1 align="center">👋 Olá! Sou Luccas</h1>
 <h3 align="left">Me aventurando em DataScience</h3>
 
 - 🌱 Estou aprendendo sobre **DataScience**
