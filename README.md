@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, eu sou Luccas</h1>
-<h3 align="center">Me aventurando em DataScience</h3>
+<h1 align="left">👋 Olá! Sou Luccas</h1>
+<h3 align="left">Me aventurando em DataScience</h3>
 
 - 🌱 Estou aprendendo sobre **DataScience**
 
